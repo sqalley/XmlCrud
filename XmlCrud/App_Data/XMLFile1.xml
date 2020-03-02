@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+  <song>
+    <id>1</id>
+    <artist>MArtijn en de Pascal</artist>
+    <title>Martijn hits scoot</title>
+    <year>3000</year>
+    <genre>rap</genre>
+    <time>10:00</time>
+    <file>stonks.com.mp3</file>
+  </song>
+
+  <song>
+    <id>2</id>
+    <artist>Pascal en de Martijn</artist>
+    <title>pascal hits scoot</title>
+    <year>3001</year>
+    <genre>rap</genre>
+    <time>20:00</time>
+    <file>stonks2.com.mp3</file>
+  </song>
+</playlist>
